@@ -1,2 +1,2 @@
 # InstagramCloneFlutter
-Instagram App clone using Flutter (Under Develpoment)
+Instagram App clone using Flutter (Under Development)
